@@ -6,7 +6,7 @@ output:
   html_document: default
 ---
 
-```{r opts, echo = FALSE}
+```{r opts, echo = TRUE}
 knitr::opts_chunk$set(
   fig.path = "figure/"
 )
